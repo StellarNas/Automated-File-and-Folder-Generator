@@ -1,7 +1,7 @@
 # 📁 Automated File and Folder Generator
 
 ## 📜 Description
-This Python script automates the creation of directories and files in a specified directory. 🖥️ Users can configure the number of primary folders, subfolders, and files to generate. Additionally, it provides options to clear existing content before generation and define custom names for folders and files.  
+This Python script automates the creation of directories and files in a specified directory.  Users can configure the number of primary folders, subfolders, and files to generate. Additionally, it provides options to clear existing content before generation and define custom names for folders and files.  
 
 ### ⚠️ **Note:** This program has only been tested on Windows 11.
 ### 🔬 **Intended for Testing:** This tool is mainly for testing purposes. It can be useful for scenarios where multiple folders and files need to be created quickly for development, organization, or other use cases.  
